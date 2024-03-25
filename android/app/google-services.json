@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994163776952",
+    "project_id": "maopaypagopen",
+    "storage_bucket": "maopaypagopen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994163776952:android:20e3e9270f8528486d434d",
+        "android_client_info": {
+          "package_name": "com.example.mapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5_4xmuB6_mFjvoy3fofalAiWyhX1VZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
